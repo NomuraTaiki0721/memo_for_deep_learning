@@ -27,9 +27,13 @@ Hintonが2006年に発表したボルツマンマシンがベース。
 
 ##各種ツール
 *Cafee*
+
 *Chainer*
+
 *Google Tensorflow*
+
 *Chainer gogh*
+
 *Pylearn2*
 
 *Imagenet*
